@@ -1,0 +1,24 @@
+{
+  "name": "@wizulus/graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --watch --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wizulus/graph"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generator-extensions": "^1.0.6",
+    "lodash": "^4.17.4",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
